@@ -1,22 +1,7 @@
 <h2 align="left">Hi 👋! My name is Rezza and I'm a Full-stack Web Developer, from Indonesia</h2>
 
 ###
-
-<div>
-  <h3>Tech-stack that I usually use:</h3>
-  <ul>
-    <li>NextJS</li>
-    <li>ReactJS</li>
-    <li>TailwindCSS</li>
-    <li>NodeJS</li>
-    <li>ExpressJS</li>
-    <li>MySQL</li>
-    <li>Prisma</li>
-    <li>Jest</li>
-    <li>Docker</li>
-  </ul>
-</div>
-
+[![Rezza's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezzadtyp)](https://github.com/anuraghazra/github-readme-stats)
 ###
 
 <div align="center">
